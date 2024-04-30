@@ -1,4 +1,4 @@
-# KIPerWeb recommenders deployment <img align="right" height="100" top=-100 src="figures/kip.jpg">
+# KIPerWeb deployment <img align="right" height="100" top=-100 src="figures/kip.jpg">
 [![](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 
 kip-deploy is a docker image for deployment of the recommenders developed within 
