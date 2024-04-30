@@ -1,0 +1,3 @@
+[submodule "kiprec"]
+	path = kiprec
+	url = git@github.com:DFKI/kiprec.git
